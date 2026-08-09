@@ -1,4 +1,4 @@
-﻿# Day 1 — Set Up Identity & Implement Registration
+﻿# Set Up Identity & Implement Registration
 
 Adding ASP.NET Core Identity to the Library Management System API for user registration.
 
